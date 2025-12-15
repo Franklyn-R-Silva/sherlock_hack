@@ -4,6 +4,7 @@ Code Snippet Wiki
 Coders Rank
 DeviantArt
 Fandom
+Freelancer
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -12,6 +13,9 @@ LushStories
 PocketStars
 Reddit
 RocketTube
+RuneScape
+Scribd
+SlideShare
 Splice
 Spotify
 Trovo
@@ -20,3 +24,4 @@ Weblate
 YandexMusic
 opennet
 svidbook
+xHamster
