@@ -8,7 +8,7 @@ GeeksforGeeks
 Giphy
 Hubski
 LushStories
-Minecraft
+Motherless
 PocketStars
 Reddit
 RocketTube
@@ -18,8 +18,7 @@ Splice
 Spotify
 Trovo
 Weblate
-YandexMusic
 opennet
 phpRU
 svidbook
-xHamster
+threads
