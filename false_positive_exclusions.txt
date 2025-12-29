@@ -1,5 +1,4 @@
 APClips
-Archive.org
 Code Snippet Wiki
 DeviantArt
 Fandom
@@ -8,8 +7,9 @@ GeeksforGeeks
 Giphy
 Hubski
 LushStories
-Motherless
+Minecraft
 PocketStars
+Rajce.net
 Reddit
 RocketTube
 Scribd
@@ -18,7 +18,8 @@ Splice
 Spotify
 Trovo
 Weblate
+YandexMusic
 opennet
 phpRU
 svidbook
-threads
+xHamster
