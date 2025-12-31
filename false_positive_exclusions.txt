@@ -1,14 +1,10 @@
 APClips
 Archive.org
-Blogger
 Code Snippet Wiki
-DeviantArt
 Fandom
-Freelancer
 GNOME VCS
 GeeksforGeeks
 Giphy
-Gravatar
 Hubski
 PocketStars
 Reddit
@@ -17,9 +13,9 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trovo
 Weblate
+YandexMusic
+mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
