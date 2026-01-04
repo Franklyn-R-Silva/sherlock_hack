@@ -8,7 +8,6 @@ GeeksforGeeks
 Giphy
 Hubski
 LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -23,3 +22,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
