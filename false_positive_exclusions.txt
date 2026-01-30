@@ -2,13 +2,12 @@ APClips
 Archive.org
 Code Snippet Wiki
 DeviantArt
+Eintracht Frankfurt Forum
+Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-Gumroad
-HackerRank
 Hubski
-ImgUp.cz
 LushStories
 Minecraft
 PocketStars
@@ -22,6 +21,8 @@ Splice
 Spotify
 Trovo
 Weblate
+YandexMusic
+igromania
 mercadolivre
 opennet
 phpRU
