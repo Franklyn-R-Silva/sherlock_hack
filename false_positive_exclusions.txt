@@ -1,12 +1,13 @@
 APClips
 Archive.org
-CGTrader
 Code Snippet Wiki
-DeviantArt
+DEV Community
 Fandom
+GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
+Itch.io
 LushStories
 Minecraft
 PocketStars
@@ -18,7 +19,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
 YandexMusic
