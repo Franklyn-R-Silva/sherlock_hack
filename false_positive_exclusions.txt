@@ -7,12 +7,14 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-Itch.io
+LessWrong
 LushStories
+Minecraft
 PocketStars
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Smule
