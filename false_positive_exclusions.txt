@@ -8,6 +8,7 @@ Hashnode
 Hubski
 LessWrong
 LushStories
+Minecraft
 PocketStars
 Realmeye
 Reddit
@@ -17,6 +18,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Tiendanube
 TryHackMe
 Weblate
 YandexMusic
