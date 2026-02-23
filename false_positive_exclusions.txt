@@ -1,14 +1,16 @@
 APClips
 Archive.org
-Audiojungle
 Code Snippet Wiki
+DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
+Hive Blog
 Hubski
 LessWrong
 LushStories
+Minecraft
 Patched
 PocketStars
 Realmeye
@@ -19,6 +21,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
