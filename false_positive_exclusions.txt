@@ -1,7 +1,5 @@
 APClips
 Archive.org
-Code Snippet Wiki
-Coders Rank
 DeviantArt
 GNOME VCS
 GeeksforGeeks
@@ -12,7 +10,6 @@ LessWrong
 LushStories
 Patched
 PocketStars
-Rajce.net
 Realmeye
 Reddit
 RocketTube
@@ -29,4 +26,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
