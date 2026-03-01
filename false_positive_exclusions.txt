@@ -1,13 +1,17 @@
 APClips
 Archive.org
+Codolio
+Eintracht Frankfurt Forum
 GNOME VCS
-GaiaOnline
 GeeksforGeeks
 Giphy
+GitBook
 Hashnode
 Hubski
 LessWrong
+LiveJournal
 LushStories
+Minecraft
 Patched
 PocketStars
 Realmeye
@@ -25,4 +29,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
