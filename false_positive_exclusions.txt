@@ -1,7 +1,7 @@
 APClips
 Archive.org
+Blogger
 Codolio
-DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -11,7 +11,6 @@ LessWrong
 LushStories
 Patched
 PocketStars
-Python.org Discussions
 Realmeye
 Reddit
 RocketTube
@@ -20,7 +19,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
 YandexMusic
