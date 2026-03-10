@@ -1,12 +1,15 @@
 APClips
 Archive.org
 Codolio
+Cults3D
+DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
+LushStories
 Minecraft
 Patched
 PocketStars
@@ -17,9 +20,11 @@ RocketTube
 Scribd
 SlideShare
 Smule
+SoylentNews
 Splice
 Spotify
 Strava
+Trovo
 TryHackMe
 Weblate
 YandexMusic
