@@ -1,5 +1,6 @@
 APClips
 Archive.org
+Chatujme.cz
 Codolio
 GNOME VCS
 GeeksforGeeks
@@ -23,8 +24,8 @@ Strava
 TryHackMe
 Weblate
 YandexMusic
-eintracht
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
