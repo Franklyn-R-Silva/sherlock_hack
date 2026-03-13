@@ -1,6 +1,5 @@
 APClips
 Archive.org
-Chatujme.cz
 Codolio
 GNOME VCS
 GeeksforGeeks
@@ -11,6 +10,8 @@ LessWrong
 LushStories
 Patched
 PocketStars
+Pornhub
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -25,7 +26,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
