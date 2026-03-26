@@ -1,5 +1,4 @@
 APClips
-Academia.edu
 Archive.org
 Codolio
 GeeksforGeeks
@@ -24,5 +23,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
