@@ -1,9 +1,10 @@
 7Cups
 APClips
 Archive.org
+Bandcamp
 Codolio
-DeviantArt
 Discord.bio
+Framapiaf
 GeeksforGeeks
 Giphy
 Hashnode
@@ -21,7 +22,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
 YandexMusic
