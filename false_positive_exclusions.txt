@@ -3,8 +3,9 @@ APClips
 Archive.org
 Bandcamp
 Codolio
+Crevado
+DeviantArt
 Discord.bio
-Framapiaf
 GeeksforGeeks
 Giphy
 Hashnode
@@ -17,6 +18,7 @@ Rarible
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Smule
