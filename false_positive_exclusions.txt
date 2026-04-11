@@ -2,9 +2,8 @@
 APClips
 Archive.org
 Bandcamp
+BoardGameGeek
 Codolio
-Cults3D
-DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
@@ -22,11 +21,10 @@ RocketTube
 Scribd
 SlideShare
 Smule
+SpeakerDeck
 Splice
 Spotify
-Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 interpals
@@ -34,4 +32,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
