@@ -3,6 +3,7 @@ APClips
 Apple Discussions
 Archive.org
 Bandcamp
+CGTrader
 Codolio
 DeviantArt
 Discord.bio
@@ -14,7 +15,6 @@ LessWrong
 LushStories
 Patched
 PocketStars
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -22,11 +22,12 @@ RocketTube
 Scribd
 SlideShare
 Smule
+SpeakerDeck
 Splice
 Spotify
-Strava
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 dailykos
