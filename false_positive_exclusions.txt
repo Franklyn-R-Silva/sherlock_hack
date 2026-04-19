@@ -2,12 +2,12 @@
 APClips
 Apple Discussions
 Archive.org
-Audiojungle
 Bandcamp
 Codolio
 Cults3D
 DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 GeeksforGeeks
 Giphy
 Hashnode
@@ -28,8 +28,8 @@ Splice
 Spotify
 Trovo
 TryHackMe
+Velomania
 Weblate
-Wordnik
 YandexMusic
 dailykos
 interpals
