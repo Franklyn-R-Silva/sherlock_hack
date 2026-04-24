@@ -10,7 +10,7 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
+LessWrong
 LushStories
 Minecraft
 Patched
@@ -31,7 +31,6 @@ YandexMusic
 dailykos
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
