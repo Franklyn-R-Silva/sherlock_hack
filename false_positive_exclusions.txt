@@ -8,7 +8,6 @@ Bandcamp
 Codolio
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -16,6 +15,7 @@ Hashnode
 Hubski
 LessWrong
 LushStories
+Motherless
 Patched
 Pornhub
 Rarible
@@ -39,3 +39,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
