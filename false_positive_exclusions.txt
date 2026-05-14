@@ -5,7 +5,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Codolio
 DeviantArt
 Discord.bio
@@ -14,8 +13,7 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LessWrong
-LushStories
+Minecraft
 Motherless
 Patched
 Pornhub
