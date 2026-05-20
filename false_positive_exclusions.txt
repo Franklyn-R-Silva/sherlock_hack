@@ -12,8 +12,7 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
-LushStories
+LessWrong
 Minecraft
 Patched
 Rarible
