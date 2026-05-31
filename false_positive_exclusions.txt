@@ -5,6 +5,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Carbonmade
 Codolio
 DeviantArt
 Discord.bio
@@ -13,7 +14,6 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
 LessWrong
 LushStories
 Minecraft
@@ -24,7 +24,9 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
+RuneScape
 Scribd
+Slack
 SlideShare
 Smule
 Splice
@@ -42,3 +44,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
