@@ -1,5 +1,6 @@
 7Cups
 Airliners
+Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
@@ -12,8 +13,7 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LessWrong
-Minecraft
+LushStories
 Patched
 Rarible
 Realmeye
@@ -21,10 +21,10 @@ Reddit
 Replit.com
 RocketTube
 Scribd
-Slack
 SlideShare
 Splice
 Spotify
+Star Citizen
 Trovo
 TryHackMe
 Velomania
