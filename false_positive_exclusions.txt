@@ -14,6 +14,7 @@ Giphy
 Hashnode
 Hubski
 LushStories
+Minecraft
 Patched
 Rarible
 Realmeye
@@ -21,10 +22,10 @@ Reddit
 Replit.com
 RocketTube
 Scribd
+Slack
 SlideShare
 Splice
 Spotify
-Star Citizen
 Trovo
 TryHackMe
 Velomania
