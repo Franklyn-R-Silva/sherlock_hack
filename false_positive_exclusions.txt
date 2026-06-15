@@ -16,9 +16,9 @@ Giphy
 HackenProof (Hackers)
 Hashnode
 Hubski
-Itch.io
 LessWrong
 LushStories
+Minecraft
 Patched
 Pornhub
 Rarible
@@ -30,7 +30,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Star Citizen
 Trovo
 TryHackMe
 Velomania
@@ -44,4 +43,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
