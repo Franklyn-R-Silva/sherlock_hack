@@ -6,7 +6,9 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
+DeviantArt
 Discord.bio
+Dribbble
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -20,10 +22,13 @@ Rarible
 Realmeye
 Reddit
 Replit.com
+RocketTube
 Scribd
 SlideShare
 Splice
 Spotify
+Star Citizen
+Trovo
 TryHackMe
 Velomania
 Weblate
