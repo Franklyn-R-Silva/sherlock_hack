@@ -1,26 +1,24 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Codolio
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-Gravatar
 Hashnode
 Houzz
 Hubski
-Itch.io
 LessWrong
+Linktree
 LushStories
-Minecraft
 Odysee
-Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -42,3 +40,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
