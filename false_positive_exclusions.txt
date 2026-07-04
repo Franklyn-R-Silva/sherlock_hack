@@ -17,7 +17,7 @@ Hashnode
 Houzz
 Hubski
 LessWrong
-Minecraft
+LushStories
 Odysee
 PCGamer
 Patched
@@ -38,11 +38,10 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-fixya
 igromania
 interpals
 mercadolivre
-minds
 opennet
 phpRU
 svidbook
+xHamster
