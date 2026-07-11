@@ -14,9 +14,9 @@ Giphy
 Hashnode
 Houzz
 Hubski
-Itch.io
 LessWrong
 LushStories
+Minecraft
 Odysee
 PCGamer
 Rarible
@@ -37,6 +37,7 @@ dailykos
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
