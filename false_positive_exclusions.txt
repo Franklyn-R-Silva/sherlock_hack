@@ -7,7 +7,6 @@ ArtStation
 Bandcamp
 BreachSta.rs Forum
 Codolio
-DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -27,12 +26,9 @@ Reddit
 Replit.com
 RocketTube
 Scribd
-Slack
 SlideShare
 Splice
 Spotify
-Star Citizen
-Trovo
 TryHackMe
 Velomania
 Weblate
