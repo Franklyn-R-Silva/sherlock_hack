@@ -6,6 +6,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 BreachSta.rs Forum
 Codolio
 DeviantArt
@@ -17,7 +18,7 @@ Hashnode
 Hubski
 LessWrong
 LinkedIn
-LushStories
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -44,3 +45,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
