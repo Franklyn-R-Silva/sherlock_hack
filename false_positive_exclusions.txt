@@ -18,7 +18,9 @@ Houzz
 Hubski
 Instapaper
 LessWrong
+Minecraft
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Rarible
@@ -32,11 +34,10 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
-Strava
 Trakt
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
