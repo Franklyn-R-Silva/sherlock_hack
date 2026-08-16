@@ -11,6 +11,7 @@ DeviantArt
 Discord.bio
 Envato Forum
 F3.cool
+Flipboard
 GeeksforGeeks
 Giphy
 HackenProof (Hackers)
@@ -18,8 +19,8 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Minecraft
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -34,10 +35,9 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
+Star Citizen
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
