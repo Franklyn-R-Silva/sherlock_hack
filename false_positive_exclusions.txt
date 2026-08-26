@@ -4,22 +4,24 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Carrd
 Chatujme.cz
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
+HackenProof (Hackers)
 Hashnode
 Houzz
 Hubski
 Instapaper
-Minecraft
 Odysee
+OurDJTalk
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -45,5 +47,4 @@ igromania
 interpals
 mercadolivre
 opennet
-phpRU
 svidbook
