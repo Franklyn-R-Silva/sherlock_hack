@@ -16,6 +16,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 ObservableHQ
 Odysee
 PCGamer
@@ -23,12 +24,12 @@ Rarible
 Realmeye
 Reddit
 ReverbNation
-RocketTube
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
