@@ -6,6 +6,7 @@ Apple Discussions
 Archive.org
 Bandcamp
 CGTrader
+Carbonmade
 Championat
 Chatujme.cz
 ChaturBate
@@ -16,14 +17,14 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
+GitBook
 HackerNews
 Hashnode
 Houzz
 Hubski
 Instapaper
 Linktree
-NationStates Nation
-NationStates Region
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -37,6 +38,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Weblate
@@ -51,4 +53,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
