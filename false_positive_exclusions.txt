@@ -1,3 +1,4 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -19,6 +20,7 @@ Houzz
 Hubski
 Instapaper
 Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -47,3 +49,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
