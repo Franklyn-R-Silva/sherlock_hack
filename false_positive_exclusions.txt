@@ -4,10 +4,15 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
+CGTrader
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
+DeviantArt
 Discord.bio
+Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
@@ -16,14 +21,11 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
-LibraryThing
 Linktree
 Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -32,9 +34,9 @@ RocketTube
 Scribd
 Shelf
 SlideShare
-Smule
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
