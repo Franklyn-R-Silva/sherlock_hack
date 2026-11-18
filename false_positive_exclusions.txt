@@ -5,7 +5,6 @@ Apple Discussions
 Archive.org
 Bandcamp
 Blogger
-CGTrader
 Championat
 Chatujme.cz
 ChaturBate
@@ -51,4 +50,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-xHamster
