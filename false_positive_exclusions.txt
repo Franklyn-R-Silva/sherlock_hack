@@ -8,6 +8,7 @@ Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
+Fosstodon
 GaiaOnline
 GeeksforGeeks
 HackerNews
@@ -16,7 +17,7 @@ Hubski
 Instapaper
 Linktree
 ObservableHQ
-OurDJTalk
+Odysee
 PCGamer
 Rarible
 Realmeye
